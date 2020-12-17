@@ -5,4 +5,5 @@ export class Gerente extends Funcionario {
         
         this._bonificacao = 1.1;
     }
+
 }
