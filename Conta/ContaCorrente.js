@@ -1,5 +1,5 @@
 import {Cliente} from './Cliente.js'
-import {Conta} from './Conta.js'
+import {Conta} from './Conta/Conta.js'
 
 export class ContaCorrente extends Conta{
     static numeroDeContas = 0;
